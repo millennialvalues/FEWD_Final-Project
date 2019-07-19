@@ -1,3 +1,4 @@
+// Javascript help from Larissa Muramoto and Mario Hseih
 // Shorthand for $( document ).ready()
 $(function() {
 
